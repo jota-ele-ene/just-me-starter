@@ -1,4 +1,4 @@
-# Hugo Just me! theme Forestry starter
+# Hugo Just me! theme starter
 
 This repo serves the demo site for **[Just me!](https://github.com/jota-ele-ene/just-me)**, a minimal and fancy theme for [Hugo](http://gohugo.io/) to create Personal Pages with no blog or extra content, just awesome rotating backgrounds and your social profiles to allow people contact you. This demo site is deployed here: https://jota-ele-ene.github.io/just-me-starter.
 
