@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'just-me'
+
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+
+
+[params]
+  author = "John Doe"
+  author_link = "#"
