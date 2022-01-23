@@ -5,12 +5,17 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
 - type: text
   name: href
   label: href
+  description: Set the URL to access your social profile
+  config:
+    required: false
 - type: text
   name: profile
   label: profile
