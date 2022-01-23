@@ -1,0 +1,19 @@
+---
+label: Profile
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: href
+  label: href
+- type: text
+  name: profile
+  label: profile
+- type: text
+  name: image
+  label: image
